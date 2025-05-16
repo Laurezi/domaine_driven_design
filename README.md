@@ -59,7 +59,9 @@ Ex: Statut fiscal (Régime d'imposition, Exonérations), base Imposable (Montant
 #### c. Agrégats (Aggregates)
 Un agrégat est un ensemble cohérent d'entités et d'objets de valeur qui forment une unité logique. Il garantit l'intégrité des règles métier.
 
-Ex: Dossier Fiscal (Regroupe les déclarations effectuées par le contribuable)
+Ex: -  Dossier Fiscal (Regroupe les déclarations effectuées par le contribuable)
+- Exemple d'une bibliothèque
+![](https://user.oc-static.com/upload/2020/04/15/15869382467946_VISUELS_AMANDINE-21.jpg)
 
 #### d. Repository pattern
 Les repositories sont des interfaces qui permettent d'accéder aux agrégats et aux entités de manière abstraite. Ils facilitent la récupération et la persistance des objets du domaine sans exposer les détails techniques de la base de données.
