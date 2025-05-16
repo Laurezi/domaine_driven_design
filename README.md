@@ -1,1 +1,1 @@
-# DOMAINE DRIVEN DESIGN (DDD) : Entite - Value Objects - Aggregates - Repository
+# DOMAINE DRIVEN DESIGN (DDD) : Entity - Value Objects - Aggregates - Repository
